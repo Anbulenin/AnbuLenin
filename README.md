@@ -4,7 +4,7 @@
   <img align="left" alt="Anbarivan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /> 
-Hi, I'm Anbarivan, a AI Engineer 🚀 from India, currently working in Bosch. Beside's programming, I enjoy Riding Bikes and playing video games.
+I'm a AI Engineer/Data science Researcher 🚀 from India, currently working in Bosch. Beside's programming, I enjoy Riding Bikes and playing video games.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
