@@ -1,7 +1,10 @@
 ### Hey 👋🏽, I'm Anbarivan
 <br/>
 <a href="https://www.linkedin.com/in/anbarivan/">
-<img align="left" alt="Anbarivan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anbarivan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@anbarivan007">
+  <img align="left" alt="Anbarivan.N.L | Twitter" width="22px" src="https://miro.medium.com/max/244/1*emiGsBgJu2KHWyjluhKXQw.png" />
 </a>
 <br /> 
 
