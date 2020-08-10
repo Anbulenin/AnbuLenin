@@ -36,7 +36,6 @@ Pandas                         ██░░░░░░░░░░░░░░�
 ```
 
 
-
 [![Anbarivans's github stats](https://github-readme-stats.vercel.app/api?username=AnbuLenin)](https://github.com/AnbuLenin/github-readme-stats)
 
 
