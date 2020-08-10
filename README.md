@@ -10,7 +10,7 @@ I'm a AI Engineer/Data science Researcher 🚀 from India, currently working in 
 - 🌱 I’m currently learning Reinforcement Learning and GAN;
 - 👯 I’m looking to collaborate on any research on AL,ML,DL domain;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: anbarivan007@gamil.com;
+- 📫 How to reach me: anbarivan007@gmail.com;
 
 **Languages and Tools:**  
 
