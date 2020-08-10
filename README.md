@@ -1,14 +1,4 @@
 ### Hey 👋🏽, I'm Anbarivan
-<br/>
-
-<a href="https://www.linkedin.com/in/anbarivan/">
-  <img align="left" alt="Anbarivan's | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@anbarivan007">
-  <img align="left" alt="Anbarivan.N.L | Medium" width="22px" src="https://miro.medium.com/max/244/1*emiGsBgJu2KHWyjluhKXQw.png" />
-</a>
-
-<br /> 
 
 I'm a AI Engineer/Data science Researcher 🚀 from India, currently working in 💼[Bosch](https://www.bosch.com/). Beside's programming, I enjoy Riding Bikes and playing video games.
 
@@ -42,4 +32,13 @@ Pandas                         ██░░░░░░░░░░░░░░�
 [![Anbarivans's github stats](https://github-readme-stats.vercel.app/api?username=AnbuLenin)](https://github.com/AnbuLenin/github-readme-stats)
 
 
+<br/>
 
+<a href="https://www.linkedin.com/in/anbarivan/">
+  <img align="left" alt="Anbarivan's | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@anbarivan007">
+  <img align="left" alt="Anbarivan.N.L | Medium" width="22px" src="https://miro.medium.com/max/244/1*emiGsBgJu2KHWyjluhKXQw.png" />
+</a>
+
+<br /> 
