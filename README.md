@@ -10,7 +10,7 @@
 <br /> 
 
 
-I'm a AI Engineer/Data science Researcher 🚀 from India, currently working in 💼[@Bosch](https://www.bosch.com/). Beside's programming, I enjoy Riding Bikes and playing video games.
+I'm a AI Engineer/Data science Researcher 🚀 from India, currently working in 💼[Bosch](https://www.bosch.com/). Beside's programming, I enjoy Riding Bikes and playing video games.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
