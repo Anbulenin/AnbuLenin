@@ -13,11 +13,11 @@ Hi, I'm Anbarivan, a AI Engineer 🚀 from India, currently working in Bosch. Be
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on AI/ML topics;
-- 🌱 I’m currently learning Reinforcement Learning and GAN;
-- 👯 I’m looking to collaborate on any research on AL,ML,DL domain ;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: anbarivan007@gamil.com;
+- 👨🏽‍💻 I’m currently working on AI/ML topics
+- 🌱 I’m currently learning Reinforcement Learning and GAN
+- 👯 I’m looking to collaborate on any research on AL,ML,DL domain 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: anbarivan007@gamil.com
 
 **Languages and Tools:**  
 
