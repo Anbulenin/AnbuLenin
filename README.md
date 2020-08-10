@@ -1,23 +1,20 @@
 ### Hey 👋🏽, I'm Anbarivan
-
 <br/>
-
 <a href="https://www.linkedin.com/in/anbarivan/">
   <img align="left" alt="Anbarivan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
 <br />
-
+  
 Hi, I'm Anbarivan, a AI Engineer 🚀 from India, currently working in Bosch. Beside's programming, I enjoy Riding Bikes and playing video games.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on AI/ML topics
-- 🌱 I’m currently learning Reinforcement Learning and GAN
-- 👯 I’m looking to collaborate on any research on AL,ML,DL domain 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: anbarivan007@gamil.com
+- 👨🏽‍💻 I’m currently working on AI/ML topics;
+- 🌱 I’m currently learning Reinforcement Learning and GAN;
+- 👯 I’m looking to collaborate on any research on AL,ML,DL domain ;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: anbarivan007@gamil.com;
 
 **Languages and Tools:**  
 
